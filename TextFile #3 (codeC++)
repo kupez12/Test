@@ -24,3 +24,5 @@ int main()
     cout << "4)" << sqrt(x * x + 1) / sqrt(abs(x) + abs(y)) << "\n";
     return 0;
 }
+
+Новое дополнение
